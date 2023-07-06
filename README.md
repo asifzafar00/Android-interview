@@ -6,7 +6,7 @@
 
 > Android Interview Questions - Your Cheat Sheet For Android Interview
 
-## Prepared and maintained by [Asif Zafar](https://github.com/asifzafar00) who is having experience of taking interviews of many Android developers and cracking interviews of top companies.
+## Prepared and maintained by [Asif Zafar](https://github.com/asifzafar00) and [Neeraj Kumar](https://github.com/imneeraj) who is having experience of taking interviews of many Android developers and cracking interviews of top companies.
 
 ## About me
 
